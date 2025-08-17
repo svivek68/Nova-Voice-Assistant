@@ -1,0 +1,17 @@
+speechrecognition
+pyttsx3
+pywhatkit
+wikipedia
+pyaudio
+
+# Why these?
+
+# speechrecognition → For converting voice to text
+
+# pyttsx3 → For text-to-speech (voice output)
+
+# pywhatkit → To play YouTube songs and automation tasks
+
+# wikipedia → To fetch information summaries
+
+# pyaudio → Required by speechrecognition to capture microphone input
